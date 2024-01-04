@@ -1,6 +1,6 @@
 [
     {
-        "image": "./images/4 Weeks to better sleep - Michael Mosley - health.jpg",
+        "image": "/images/4 Weeks to better sleep - Michael Mosley - health.jpg",
         "name": "4 Weeks to better sleep",
         "author": {
             "name": "Michael Mosley",
@@ -13,7 +13,7 @@
         "category": "health"
     },
     {
-        "image": "./images/A Brief History of Intelligence - Max Bennett - science.jpg",
+        "image": "/images/A Brief History of Intelligence - Max Bennett - science.jpg",
         "name": "A Brief History of Intelligence",
         "author": {
             "name": "Max Bennett",
@@ -26,7 +26,7 @@
         "category": "science"
     },
     {
-        "image": "./images/A Political Theory of Muslim Democracy - Ravza Altuntas Cakir - religion history.jpg",
+        "image": "/images/A Political Theory of Muslim Democracy - Ravza Altuntas Cakir - religion history.jpg",
         "name": "A Political Theory of Muslim Democracy",
         "author": {
             "name": "Ravza Altuntas Cakir",
@@ -39,7 +39,7 @@
         "category": "religion history"
     },
     {
-        "image": "./images/Alexandria The City that Changed The World - Islam Issa - history.jpg",
+        "image": "/images/Alexandria The City that Changed The World - Islam Issa - history.jpg",
         "name": "Alexandria The City that Changed The World",
         "author": {
             "name": "Islam Issa",
@@ -52,7 +52,7 @@
         "category": "history"
     },
     {
-        "image": "./images/Ashoka Portrait of a Philosopher King - Patrick Olivelle - biography history.jpg",
+        "image": "/images/Ashoka Portrait of a Philosopher King - Patrick Olivelle - biography history.jpg",
         "name": "Ashoka Portrait of a Philosopher King",
         "author": {
             "name": "Patrick Olivelle",
@@ -65,7 +65,7 @@
         "category": "biography history"
     },
     {
-        "image": "./images/Black Holes - Brian Cox - science.jpg",
+        "image": "/images/Black Holes - Brian Cox - science.jpg",
         "name": "Black Holes",
         "author": {
             "name": "Brian Cox",
@@ -78,7 +78,7 @@
         "category": "science"
     },
     {
-        "image": "./images/Cannibal Capitalism - Nancy Fraser - politics.jpg",
+        "image": "/images/Cannibal Capitalism - Nancy Fraser - politics.jpg",
         "name": "Cannibal Capitalism",
         "author": {
             "name": "Nancy Fraser",
@@ -91,7 +91,7 @@
         "category": "politics"
     },
     {
-        "image": "./images/Courage is Calling - Ryan Holiday - self improvement.jpg",
+        "image": "/images/Courage is Calling - Ryan Holiday - self improvement.jpg",
         "name": "Courage is Calling",
         "author": {
             "name": "Ryan Holiday",
@@ -104,7 +104,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Determined Life Without Free Will - Robert Sapolsky - philosophy.jpg",
+        "image": "/images/Determined Life Without Free Will - Robert Sapolsky - philosophy.jpg",
         "name": "Determined Life Without Free Will",
         "author": {
             "name": "Robert Sapolsky",
@@ -117,7 +117,7 @@
         "category": "philosophy"
     },
     {
-        "image": "./images/Different kinds of minds - Temple Grandin - self improvement.jpg",
+        "image": "/images/Different kinds of minds - Temple Grandin - self improvement.jpg",
         "name": "Different kinds of minds",
         "author": {
             "name": "Temple Grandin",
@@ -130,7 +130,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Discipline is Destiny - Ryan Holiday - self improvement.jpg",
+        "image": "/images/Discipline is Destiny - Ryan Holiday - self improvement.jpg",
         "name": "Discipline is Destiny",
         "author": {
             "name": "Ryan Holiday",
@@ -143,7 +143,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Educational Policies and Practices - Jan e Alam Khaki - education.jpg",
+        "image": "/images/Educational Policies and Practices - Jan e Alam Khaki - education.jpg",
         "name": "Educational Policies and Practices",
         "author": {
             "name": "Jan e Alam Khaki",
@@ -156,7 +156,7 @@
         "category": "education"
     },
     {
-        "image": "./images/Ego is the Enemy - Ryan Holiday - self improvement.jpg",
+        "image": "/images/Ego is the Enemy - Ryan Holiday - self improvement.jpg",
         "name": "Ego is the Enemy",
         "author": {
             "name": "Ryan Holiday",
@@ -169,7 +169,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Encyclopedia of Herbal Medicine - Andrew Chevallier - health.jpg",
+        "image": "/images/Encyclopedia of Herbal Medicine - Andrew Chevallier - health.jpg",
         "name": "Encyclopedia of Herbal Medicine",
         "author": {
             "name": "Andrew Chevallier",
@@ -182,7 +182,7 @@
         "category": "health"
     },
     {
-        "image": "./images/Eve How the Female Body drove 200 million years of human evolution - Cat Bohannon - science.jpg",
+        "image": "/images/Eve How the Female Body drove 200 million years of human evolution - Cat Bohannon - science.jpg",
         "name": "Eve How the Female Body drove 200 million years of human evolution",
         "author": {
             "name": "Cat Bohannon",
@@ -195,7 +195,7 @@
         "category": "science"
     },
     {
-        "image": "./images/Fall Out Power Intrigue And Political Upheaval in Pakistan - Salman Masood - Politics.jpg",
+        "image": "/images/Fall Out Power Intrigue And Political Upheaval in Pakistan - Salman Masood - Politics.jpg",
         "name": "Fall Out Power Intrigue And Political Upheaval in Pakistan",
         "author": {
             "name": "Salman Masood",
@@ -208,7 +208,7 @@
         "category": "Politics"
     },
     {
-        "image": "./images/Finding your way - Sharon Saizberg - self improvement.jpg",
+        "image": "/images/Finding your way - Sharon Saizberg - self improvement.jpg",
         "name": "Finding your way",
         "author": {
             "name": "Sharon Saizberg",
@@ -221,7 +221,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Globalization, Past, Present, Future - Manfred Steger - politics.jpg",
+        "image": "/images/Globalization, Past, Present, Future - Manfred Steger - politics.jpg",
         "name": "Globalization, Past, Present, Future",
         "author": {
             "name": "Manfred Steger",
@@ -234,7 +234,7 @@
         "category": "politics"
     },
     {
-        "image": "./images/How not to age - Michael Greger - health.jpg",
+        "image": "/images/How not to age - Michael Greger - health.jpg",
         "name": "How not to age",
         "author": {
             "name": "Michael Greger",
@@ -247,7 +247,7 @@
         "category": "health"
     },
     {
-        "image": "./images/Internal Family Systems - Richard Schwartz - psychology.jpg",
+        "image": "/images/Internal Family Systems - Richard Schwartz - psychology.jpg",
         "name": "Internal Family Systems",
         "author": {
             "name": "Richard Schwartz",
@@ -260,7 +260,7 @@
         "category": "psychology"
     },
     {
-        "image": "./images/Lawrence of Arabia - Ranulph Fiennes - biography.jpg",
+        "image": "/images/Lawrence of Arabia - Ranulph Fiennes - biography.jpg",
         "name": "Lawrence of Arabia",
         "author": {
             "name": "Ranulph Fiennes",
@@ -273,7 +273,7 @@
         "category": "biography"
     },
     {
-        "image": "./images/Mastery - Robert Greene - self improvement.jpg",
+        "image": "/images/Mastery - Robert Greene - self improvement.jpg",
         "name": "Mastery",
         "author": {
             "name": "Robert Greene",
@@ -286,7 +286,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Meditations - Marcus Aurelius - philosophy.jpg",
+        "image": "/images/Meditations - Marcus Aurelius - philosophy.jpg",
         "name": "Meditations",
         "author": {
             "name": "Marcus Aurelius",
@@ -299,7 +299,7 @@
         "category": "philosophy"
     },
     {
-        "image": "./images/Meeting Churchill - Sinclair Mckay - biography.jpg",
+        "image": "/images/Meeting Churchill - Sinclair Mckay - biography.jpg",
         "name": "Meeting Churchill",
         "author": {
             "name": "Sinclair Mckay",
@@ -312,7 +312,7 @@
         "category": "biography"
     },
     {
-        "image": "./images/Mirrors of Greatness; Churchill and the leaders who shaped him - David Reynolds - biography.jpg",
+        "image": "/images/Mirrors of Greatness; Churchill and the leaders who shaped him - David Reynolds - biography.jpg",
         "name": "Mirrors of Greatness; Churchill and the leaders who shaped him",
         "author": {
             "name": "David Reynolds",
@@ -325,7 +325,7 @@
         "category": "biography"
     },
     {
-        "image": "./images/No one taught me this - Iram Bint Safia - self improvement.jpg",
+        "image": "/images/No one taught me this - Iram Bint Safia - self improvement.jpg",
         "name": "No one taught me this",
         "author": {
             "name": "Iram Bint Safia",
@@ -338,7 +338,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Pious Labor Islam, Artisanship, and Tech in Colonial India - Manda Lanzillo - religion history.jpg",
+        "image": "/images/Pious Labor Islam, Artisanship, and Tech in Colonial India - Manda Lanzillo - religion history.jpg",
         "name": "Pious Labor Islam, Artisanship, and Tech in Colonial India",
         "author": {
             "name": "Manda Lanzillo",
@@ -351,7 +351,7 @@
         "category": "religion history"
     },
     {
-        "image": "./images/Plain truths about primary education in Pakistan - Anjum Altaf - education.jpg",
+        "image": "/images/Plain truths about primary education in Pakistan - Anjum Altaf - education.jpg",
         "name": "Plain truths about primary education in Pakistan",
         "author": {
             "name": "Anjum Altaf",
@@ -364,7 +364,7 @@
         "category": "education"
     },
     {
-        "image": "./images/Quantum Body The Science of Living Longer - Deepak Chopra - health.jpg",
+        "image": "/images/Quantum Body The Science of Living Longer - Deepak Chopra - health.jpg",
         "name": "Quantum Body The Science of Living Longer",
         "author": {
             "name": "Deepak Chopra",
@@ -377,7 +377,7 @@
         "category": "health"
     },
     {
-        "image": "./images/Scarcity Brain Fix your craving mindset - Michael Easter - self improvement.jpg",
+        "image": "/images/Scarcity Brain Fix your craving mindset - Michael Easter - self improvement.jpg",
         "name": "Scarcity Brain Fix your craving mindset",
         "author": {
             "name": "Michael Easter",
@@ -390,7 +390,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/Science of stretch - Leade Malek Salehi - health.jpg",
+        "image": "/images/Science of stretch - Leade Malek Salehi - health.jpg",
         "name": "Science of stretch",
         "author": {
             "name": "Leade Malek Salehi",
@@ -403,7 +403,7 @@
         "category": "health"
     },
     {
-        "image": "./images/Simply Nutrition - Dk - health.jpg",
+        "image": "/images/Simply Nutrition - Dk - health.jpg",
         "name": "Simply Nutrition",
         "author": {
             "name": "Dk",
@@ -416,7 +416,7 @@
         "category": "health"
     },
     {
-        "image": "./images/Space The Human Story - Tim Peake - science.jpg",
+        "image": "/images/Space The Human Story - Tim Peake - science.jpg",
         "name": "Space The Human Story",
         "author": {
             "name": "Tim Peake",
@@ -429,7 +429,7 @@
         "category": "science"
     },
     {
-        "image": "./images/Surrounded By Vampires - Thomas Erikson - self improvement.jpg",
+        "image": "/images/Surrounded By Vampires - Thomas Erikson - self improvement.jpg",
         "name": "Surrounded By Vampires",
         "author": {
             "name": "Thomas Erikson",
@@ -442,7 +442,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/The 10 week Intelligent Fitness Challenge - Simon Waterson - Health.jpg",
+        "image": "/images/The 10 week Intelligent Fitness Challenge - Simon Waterson - Health.jpg",
         "name": "The 10 week Intelligent Fitness Challenge",
         "author": {
             "name": "Simon Waterson",
@@ -455,7 +455,7 @@
         "category": "Health"
     },
     {
-        "image": "./images/The 48 Laws Of Power - Robert Greene - self improvement.jpg",
+        "image": "/images/The 48 Laws Of Power - Robert Greene - self improvement.jpg",
         "name": "The 48 Laws Of Power",
         "author": {
             "name": "Robert Greene",
@@ -468,7 +468,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/The Bill Gates Problem - Tim Schwab - biography.jpg",
+        "image": "/images/The Bill Gates Problem - Tim Schwab - biography.jpg",
         "name": "The Bill Gates Problem",
         "author": {
             "name": "Tim Schwab",
@@ -481,7 +481,7 @@
         "category": "biography"
     },
     {
-        "image": "./images/The Daily Laws - Robert Greene - self improvement.jpg",
+        "image": "/images/The Daily Laws - Robert Greene - self improvement.jpg",
         "name": "The Daily Laws",
         "author": {
             "name": "Robert Greene",
@@ -494,7 +494,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/The Einsteinian Revolution - Jurgen Renn - science.jpg",
+        "image": "/images/The Einsteinian Revolution - Jurgen Renn - science.jpg",
         "name": "The Einsteinian Revolution",
         "author": {
             "name": "Jurgen Renn",
@@ -507,7 +507,7 @@
         "category": "science"
     },
     {
-        "image": "./images/The Essence of Reality A Defense of Philosophical Sufism - Ayn Al Qudat - religion philosophy.jpg",
+        "image": "/images/The Essence of Reality A Defense of Philosophical Sufism - Ayn Al Qudat - religion philosophy.jpg",
         "name": "The Essence of Reality A Defense of Philosophical Sufism",
         "author": {
             "name": "Ayn Al Qudat",
@@ -520,7 +520,7 @@
         "category": "religion philosophy"
     },
     {
-        "image": "./images/The Evolution Of Religions A History of Related Traditions - Lance Grande - religion history.jpg",
+        "image": "/images/The Evolution Of Religions A History of Related Traditions - Lance Grande - religion history.jpg",
         "name": "The Evolution Of Religions A History of Related Traditions",
         "author": {
             "name": "Lance Grande",
@@ -533,7 +533,7 @@
         "category": "religion history"
     },
     {
-        "image": "./images/The immortality key - Brian Muraresku - psychology.jpg",
+        "image": "/images/The immortality key - Brian Muraresku - psychology.jpg",
         "name": "The immortality key",
         "author": {
             "name": "Brian Muraresku",
@@ -546,7 +546,7 @@
         "category": "psychology"
     },
     {
-        "image": "./images/The Laws Of Human Nature - Robert Greene - self improvement.jpg",
+        "image": "/images/The Laws Of Human Nature - Robert Greene - self improvement.jpg",
         "name": "The Laws Of Human Nature",
         "author": {
             "name": "Robert Greene",
@@ -559,7 +559,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/The Limits of Genius - Katie Spalding - science.jpg",
+        "image": "/images/The Limits of Genius - Katie Spalding - science.jpg",
         "name": "The Limits of Genius",
         "author": {
             "name": "Katie Spalding",
@@ -572,7 +572,7 @@
         "category": "science"
     },
     {
-        "image": "./images/The Mongol Storm - Nicholas Morton - history.jpg",
+        "image": "/images/The Mongol Storm - Nicholas Morton - history.jpg",
         "name": "The Mongol Storm",
         "author": {
             "name": "Nicholas Morton",
@@ -585,7 +585,7 @@
         "category": "history"
     },
     {
-        "image": "./images/The Obstacle is the Way - Ryan Holiday - self improvement.jpg",
+        "image": "/images/The Obstacle is the Way - Ryan Holiday - self improvement.jpg",
         "name": "The Obstacle is the Way",
         "author": {
             "name": "Ryan Holiday",
@@ -598,7 +598,7 @@
         "category": "self improvement"
     },
     {
-        "image": "./images/The Unity of Science - Irwin Shapiro - science.jpg",
+        "image": "/images/The Unity of Science - Irwin Shapiro - science.jpg",
         "name": "The Unity of Science",
         "author": {
             "name": "Irwin Shapiro",
@@ -611,7 +611,7 @@
         "category": "science"
     },
     {
-        "image": "./images/The World Of The Crusades - Christopher Tyerman - history.jpg",
+        "image": "/images/The World Of The Crusades - Christopher Tyerman - history.jpg",
         "name": "The World Of The Crusades",
         "author": {
             "name": "Christopher Tyerman",
@@ -624,7 +624,7 @@
         "category": "history"
     },
     {
-        "image": "./images/What do I know - Michael De Montaigne - philosophy.jpg",
+        "image": "/images/What do I know - Michael De Montaigne - philosophy.jpg",
         "name": "What do I know",
         "author": {
             "name": "Michael De Montaigne",
@@ -637,7 +637,7 @@
         "category": "philosophy"
     },
     {
-        "image": "./images/When the parents change, everything changes - Paul Dix - psychology.jpg",
+        "image": "/images/When the parents change, everything changes - Paul Dix - psychology.jpg",
         "name": "When the parents change, everything changes",
         "author": {
             "name": "Paul Dix",
@@ -650,7 +650,7 @@
         "category": "psychology"
     },
     {
-        "image": "./images/You are a badass - Jen Sincero - self improvement.jpg",
+        "image": "/images/You are a badass - Jen Sincero - self improvement.jpg",
         "name": "You are a badass",
         "author": {
             "name": "Jen Sincero",
