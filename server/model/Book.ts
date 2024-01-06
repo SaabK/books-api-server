@@ -1,12 +1,13 @@
 import mongoose, { Schema } from "mongoose";
 
-const bookSchema = new Schema({
+export const bookSchema = new Schema({
     name: String,
     description: String,
     stock: Number,
     price: Number,
     ratings: Number,
     category: String,
+    image: String,
     author: {
         name: String,
         about: String,
