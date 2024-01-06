@@ -4,7 +4,7 @@ import changeImageURL from "../lib/changeImageURL";
 
 export const getBooks = async (req: Request, res: Response) => {
     const {
-        query: { limit, q },
+        query: { limit = 30, q },
         query,
     } = req;
 
