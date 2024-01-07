@@ -12,3 +12,8 @@ export interface Book {
     _id: string;
     description: string;
 }
+
+export interface Category {
+    name: string;
+    books: Book[];
+}

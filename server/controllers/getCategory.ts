@@ -3,10 +3,11 @@ import Category from "../model/Category";
 
 export const getCategory = async (req: Request, res: Response) => {
     const { categoryId } = req.params;
-    console.log(categoryId);
 
     try {
-        const category = await Category.findById(categoryId).populate("books");
+        const category = await Category.find({
+            name: { $regex: categoryId, $options: "i" },
+        }).populate("books");
 
         if (!category)
             return res

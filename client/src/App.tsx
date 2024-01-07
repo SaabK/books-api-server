@@ -1,17 +1,15 @@
 import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
 import TryIt from "./components/TryIt";
-import { Toaster } from "@/components/ui/toaster";
+import Routes from "./components/Routes";
 
 function App() {
     return (
         <>
-            <Navbar />
             <main>
                 <Hero />
                 <TryIt />
+                <Routes />
             </main>
-            <Toaster />
         </>
     );
 }

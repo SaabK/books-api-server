@@ -1,16 +1,18 @@
-import { CodeBlock, CopyBlock, dracula } from "react-code-blocks";
+import { CodeBlock, CopyBlock, codepen, dracula } from "react-code-blocks";
 import { Button } from "./ui/button";
 import { useEffect, useState } from "react";
-import { Book } from "@/types";
+import { Book, Category } from "@/types";
 
 interface CodeComponentProps {
     showLineNumbers?: boolean;
     url: string;
+    code: (data: Book | Category | null) => string;
 }
 
 export default function CodeComponent({
     showLineNumbers = true,
     url,
+    code,
 }: CodeComponentProps) {
     const [showOutput, setShowOutput] = useState(false);
     const [data, setData] = useState<Book | null>(null);
@@ -20,11 +22,9 @@ export default function CodeComponent({
             .then((res) => res.json())
             .then((data) => {
                 setData(data);
-                console.log("In Fetch Request: ", data);
+                console.log("In useEffect ( for category ): ", data);
                 return;
             });
-
-        console.log("In useEffect: ", data);
     }, []);
 
     return (
@@ -41,31 +41,20 @@ export default function CodeComponent({
                 className="my-4"
                 onClick={() => {
                     setShowOutput(true);
-                    console.log(data?.name);
                 }}
             >
                 Show Output
             </Button>
-            {showOutput && (
-                <CodeBlock
-                    text={`{
-    "author": {
-        "name": "${data?.author.name}",
-        "about": "${data?.author.about.slice(0, 50) + "..."}"
-    },
-    "_id": "${data?._id}",
-    "image": "${data?.image}",
-    "name": "${data?.name}",
-    "ratings": ${data?.ratings},
-    "price": ${data?.price},
-    "stock": ${data?.stock},
-    "description": "${data?.description.slice(0, 50) + "..."}",
-    "category": "${data?.category}"
-}
-                `}
-                    language="javascript"
-                    theme={dracula}
-                />
+            {showOutput ? (
+                <>
+                    <CodeBlock
+                        text={Array.isArray(data) ? code(data[0]) : code(data!)}
+                        language="javascript"
+                        theme={codepen}
+                    />
+                </>
+            ) : (
+                <CodeBlock language="javascript" text="{ }" theme={codepen} />
             )}
             <pre></pre>
         </>
